@@ -422,13 +422,13 @@ var Menu = function Menu(props) {
       lineNumber: 8
     },
     __self: this
-  }, "Magna feugiat sed adipiscing"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "My name is Jess!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
-  }, "Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "I'm a freelance artist with a Bachelors in Fine Arts from the School of Visual Arts. ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
@@ -454,7 +454,7 @@ var Menu = function Menu(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
+    href: "https://twitter.com/catscantdraw",
     className: "icon brands fa-twitter",
     __source: {
       fileName: _jsxFileName,
@@ -475,7 +475,7 @@ var Menu = function Menu(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
+    href: "https://www.facebook.com/catscantdraw",
     className: "icon brands fa-facebook-f",
     __source: {
       fileName: _jsxFileName,
@@ -492,33 +492,12 @@ var Menu = function Menu(props) {
   }, "Facebook"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
-    className: "icon brands fa-instagram",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("span", {
-    className: "label",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 16
-    },
-    __self: this
-  }, "Instagram"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
-    __source: {
-      fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
-    className: "icon brands fa-github",
+    href: "https://www.youtube.com/channel/UCoFtzPbV2UupKhtIxpbEOdQ",
+    className: "icon brands fa-youtube",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
@@ -538,8 +517,8 @@ var Menu = function Menu(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
-    className: "icon brands fa-dribbble",
+    href: "https://www.linkedin.com/in/catscantdraw/",
+    className: "icon brands fa-linkedin-in",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 18
@@ -552,15 +531,15 @@ var Menu = function Menu(props) {
       lineNumber: 18
     },
     __self: this
-  }, "Dribbble"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
+  }, "LinkedIn"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "#",
-    className: "icon brands fa-linkedin-in",
+    href: "https://sva.ccnsite.com/catscantdraw",
+    className: "icon brands fa-behance",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -573,29 +552,29 @@ var Menu = function Menu(props) {
       lineNumber: 19
     },
     __self: this
-  }, "LinkedIn"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Dribbble"))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     className: "copyright",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 23
     },
     __self: this
-  }, "\xA9 Unttled.")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 26
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "\xA9 2019")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 28
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 29
     },
     __self: this
   }, "Get in touch"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("form", {
@@ -603,21 +582,21 @@ var Menu = function Menu(props) {
     action: "#",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29
+      lineNumber: 30
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "fields",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 31
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "field half",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 32
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -627,14 +606,14 @@ var Menu = function Menu(props) {
     placeholder: "Name",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32
+      lineNumber: 33
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "field half",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34
+      lineNumber: 35
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -644,14 +623,14 @@ var Menu = function Menu(props) {
     placeholder: "Email",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 36
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "field",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 38
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("textarea", {
@@ -661,20 +640,20 @@ var Menu = function Menu(props) {
     placeholder: "Message",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 39
     },
     __self: this
   }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
     className: "actions",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41
+      lineNumber: 42
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 43
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -683,13 +662,13 @@ var Menu = function Menu(props) {
     className: "primary",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42
+      lineNumber: 43
     },
     __self: this
   })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 44
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("input", {
@@ -697,7 +676,7 @@ var Menu = function Menu(props) {
     value: "Reset",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43
+      lineNumber: 44
     },
     __self: this
   }))))))));
@@ -719,12 +698,14 @@ Menu.propTypes = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "prop-types");
-/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "next/link");
-/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! styled-jsx/style */ "styled-jsx/style");
+/* harmony import */ var styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "react");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! prop-types */ "prop-types");
+/* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/link */ "next/link");
+/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_3__);
 
 
 var _jsxFileName = "C:\\Users\\s0937895\\Desktop\\next-jess-portfolio\\components\\Tile.js";
@@ -732,55 +713,63 @@ var _jsxFileName = "C:\\Users\\s0937895\\Desktop\\next-jess-portfolio\\component
 
 
 
+
 var Tile = function Tile(props) {
-  return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("article", {
-    className: "thumb",
+  return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("article", {
+    className: "jsx-3470343523" + " " + "thumb",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_3___default.a, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     href: props.image,
-    className: "image",
+    className: "jsx-3470343523" + " " + "image",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+  }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
     src: props.image,
     alt: props.description,
+    className: "jsx-3470343523",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
     },
     __self: this
-  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }))), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("h2", {
+    className: "jsx-3470343523",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
-  }, props.title), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, props.title), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
+    className: "jsx-3470343523",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
-  }, props.description));
+  }, props.description), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
+    styleId: "3470343523",
+    css: "img.jsx-3470343523{max-width:100%;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcczA5Mzc4OTVcXERlc2t0b3BcXG5leHQtamVzcy1wb3J0Zm9saW9cXGNvbXBvbmVudHNcXFRpbGUuanMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBU29CLEFBSTJCLGVBQ2xCIiwiZmlsZSI6IkM6XFxVc2Vyc1xcczA5Mzc4OTVcXERlc2t0b3BcXG5leHQtamVzcy1wb3J0Zm9saW9cXGNvbXBvbmVudHNcXFRpbGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUHJvcFR5cGVzIGZyb20gJ3Byb3AtdHlwZXMnO1xyXG5pbXBvcnQgTGluayBmcm9tICduZXh0L2xpbmsnO1xyXG5cclxuXHJcbmNvbnN0IFRpbGUgPSBwcm9wcyA9PiAoXHJcbiAgICA8YXJ0aWNsZSBjbGFzc05hbWU9XCJ0aHVtYlwiPlxyXG4gICAgICAgIDxMaW5rPjxhIGhyZWY9e3Byb3BzLmltYWdlfSBjbGFzc05hbWU9XCJpbWFnZVwiPjxpbWcgc3JjPXtwcm9wcy5pbWFnZX0gYWx0PXtwcm9wcy5kZXNjcmlwdGlvbn0vPjwvYT48L0xpbms+XHJcbiAgICAgICAgPGgyPntwcm9wcy50aXRsZX08L2gyPlxyXG4gICAgICAgIDxwPntwcm9wcy5kZXNjcmlwdGlvbn08L3A+XHJcbiAgICAgICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAgIFxyXG4gICAgICAgIGltZyB7XHJcbiAgICAgICAgICAgIG1heC13aWR0aDoxMDAlO1xyXG4gICAgICAgIH1cclxuICAgICAgYH08L3N0eWxlPlxyXG4gICAgPC9hcnRpY2xlPlxyXG4gICAgXHJcbik7XHJcblxyXG5UaWxlLnByb3BUeXBlcyA9IHtcclxuICAgIHRpdGxlOiBQcm9wVHlwZXMuc3RyaW5nLFxyXG4gICAgZGVzY3JpcHRpb246IFByb3BUeXBlcy5zdHJpbmcsXHJcbiAgICBpbWFnZTogUHJvcFR5cGVzLnN0cmluZ1xyXG59O1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgVGlsZTsiXX0= */\n/*@ sourceURL=C:\\Users\\s0937895\\Desktop\\next-jess-portfolio\\components\\Tile.js */",
+    __self: this
+  }));
 };
 
 Tile.propTypes = {
-  title: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
-  description: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string,
-  image: prop_types__WEBPACK_IMPORTED_MODULE_1___default.a.string
+  title: prop_types__WEBPACK_IMPORTED_MODULE_2___default.a.string,
+  description: prop_types__WEBPACK_IMPORTED_MODULE_2___default.a.string,
+  image: prop_types__WEBPACK_IMPORTED_MODULE_2___default.a.string
 };
 /* harmony default export */ __webpack_exports__["default"] = (Tile);
 
@@ -1031,6 +1020,17 @@ module.exports = require("prop-types");
 /***/ (function(module, exports) {
 
 module.exports = require("react");
+
+/***/ }),
+
+/***/ "styled-jsx/style":
+/*!***********************************!*\
+  !*** external "styled-jsx/style" ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = require("styled-jsx/style");
 
 /***/ })
 

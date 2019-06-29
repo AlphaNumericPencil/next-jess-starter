@@ -5,22 +5,23 @@ const Menu = props => (
         <div className="inner split">
             <div>
                 <section>
-                    <h2>Magna feugiat sed adipiscing</h2>
-                    <p>Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum eget quis orci mattis aliquet. Maecenas fringilla et ante at lorem et ipsum. Dolor nulla eu bibendum sapien. Donec non pharetra dui. Nulla consequat, ex ut suscipit rutrum, mi dolor tincidunt erat, et scelerisque turpis ipsum.</p>
+                    <h2>My name is Jess!</h2>
+                    <p>I'm a freelance artist with a Bachelors in Fine Arts from the School of Visual Arts. </p> 
                 </section>
                 <section>
                     <h2>Follow me on ...</h2>
                     <ul className="icons">
-                        <li><a href="#" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
-                        <li><a href="#" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
-                        <li><a href="#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li>
-                        <li><a href="#" className="icon brands fa-github"><span className="label">GitHub</span></a></li>
-                        <li><a href="#" className="icon brands fa-dribbble"><span className="label">Dribbble</span></a></li>
-                        <li><a href="#" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
+                        <li><a href="https://twitter.com/catscantdraw" className="icon brands fa-twitter"><span className="label">Twitter</span></a></li>
+                        <li><a href="https://www.facebook.com/catscantdraw" className="icon brands fa-facebook-f"><span className="label">Facebook</span></a></li>
+                        {/* <li><a href="#" className="icon brands fa-instagram"><span className="label">Instagram</span></a></li> */}
+                        <li><a href="https://www.youtube.com/channel/UCoFtzPbV2UupKhtIxpbEOdQ" className="icon brands fa-youtube"><span className="label">GitHub</span></a></li>
+                        <li><a href="https://www.linkedin.com/in/catscantdraw/" className="icon brands fa-linkedin-in"><span className="label">LinkedIn</span></a></li>
+                        <li><a href="https://sva.ccnsite.com/catscantdraw" className="icon brands fa-behance"><span className="label">Dribbble</span></a></li>
+                        
                     </ul>
                 </section>
                 <p className="copyright">
-                    &copy; Unttled.
+                    &copy; 2019
 								</p>
             </div>
             <div>
