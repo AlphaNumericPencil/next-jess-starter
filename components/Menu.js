@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const Menu = props => (
-    <footer id="footer" className="panel">
+    <footer id="menu" className="panel">
         <div className="inner split">
             <div>
                 <section>

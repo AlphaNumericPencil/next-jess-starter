@@ -3,7 +3,6 @@
 @import 'libs/mixins';
 @import 'libs/vendor';
 @import 'libs/breakpoints';
-@import 'fontawesome-all.min.css';
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic');
 
 /*
@@ -50,7 +49,7 @@
 	@import 'components/icons';
 	@import 'components/table';
 	@import 'components/panel';
-	@import 'components/poptrox-popup';
+	@import 'components/_poptrox-popup.scss';
 
 // Layout.
 
